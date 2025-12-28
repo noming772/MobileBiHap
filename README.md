@@ -79,6 +79,7 @@ Launch the app, select Left/Right hand and Y/Z axis. Perform pinch/drag/rotation
 Using two smartphones, MobileBiHap enables independent control of left and right virtual hands. Each hand follows its configured axis mode (Y or Z) for translation and rotation. The system supports grasping objects, lifting them, rotating while held, and then releasing to drop — all driven by real-time touch input from the phones.
 
 ## Demo Video
-[![HaptiX Demo](https://img.youtube.com/vi/u9O4cB-bul0/hqdefault.jpg)](https://youtu.be/u9O4cB-bul0)
+[![MobileBiHap Demo](https://img.youtube.com/vi/u9O4cB-bul0/hqdefault.jpg)](https://youtu.be/u9O4cB-bul0)
+
 
 
