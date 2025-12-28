@@ -1,5 +1,5 @@
 # MobileBiHap
-Real-time multi-hand haptic interaction system using smartphones and Unity3D. Turns everyday phones into intuitive, low-cost haptic controllers.
+Real-time bi-manual haptic interaction system using smartphones and Unity3D. Turns everyday phones into intuitive, low-cost haptic controllers.
 
 <img width="1281" height="652" alt="fig  3" src="https://github.com/user-attachments/assets/61ec5100-5818-4beb-847d-c61cf22b81a7" />
 
