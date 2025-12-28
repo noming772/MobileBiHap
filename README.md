@@ -1,16 +1,16 @@
-# HaptiX  
+# MobileBiHap
 Real-time multi-hand haptic interaction system using smartphones and Unity3D. Turns everyday phones into intuitive, low-cost haptic controllers.
 
 <img width="1281" height="652" alt="fig  3" src="https://github.com/user-attachments/assets/61ec5100-5818-4beb-847d-c61cf22b81a7" />
 
 ## Overview
-HaptiX is a smartphone-based real-time haptic interaction system. Instead of relying on costly, cumbersome haptic devices, HaptiX uses everyday phones to control skinned 3D hand models in Unity3D. Pinch, drag, and rotation gestures are transmitted via UDP, enabling translation, rotation, and grasp/release. Bidirectional haptic feedback—phone vibration and sound—provides immersive touch cues. With two phones, users can independently control left and right hands for coordinated bimanual interaction.
+MobileBiHap is a smartphone-based real-time bi-manual haptic interaction system. Instead of relying on costly and cumbersome haptic devices, MobileBiHap uses everyday smartphones to control skinned 3D hand models in Unity3D. Pinch, drag, and rotation gestures are transmitted via UDP, enabling translation, rotation, and grasp/release interactions. Bidirectional haptic feedback—phone vibration and sound—provides immersive touch cues. With two phones, users can independently control left and right hands for coordinated bimanual interaction.
 
 
 ## Features
 - #### Smartphone-based haptic control
   Uses smartphones as controllers without requiring expensive haptic devices.
-- #### Multi-hand coordination with two smartphones
+- #### Bi-manual interaction with two smartphones
   Each smartphone independently controls left or right hand for coordinated bimanual interaction.
 - #### Bidirectional haptic feedback
   When collisions occur, smartphones provide vibration and audio feedback for an immersive touch experience.
@@ -76,7 +76,7 @@ Launch the app, select Left/Right hand and Y/Z axis. Perform pinch/drag/rotation
 
 
 ## Results
-Using two smartphones, HaptiX controls left and right virtual hands independently. Each hand follows its configured axis mode (Y or Z) for translation and rotation. The system supports grasping objects, lifting them, rotating while held, and then releasing to drop — all driven by real-time touch input from the phones.
+Using two smartphones, MobileBiHap enables independent control of left and right virtual hands. Each hand follows its configured axis mode (Y or Z) for translation and rotation. The system supports grasping objects, lifting them, rotating while held, and then releasing to drop — all driven by real-time touch input from the phones.
 
 ## Demo Video
 [![HaptiX Demo](https://img.youtube.com/vi/u9O4cB-bul0/hqdefault.jpg)](https://youtu.be/u9O4cB-bul0)
